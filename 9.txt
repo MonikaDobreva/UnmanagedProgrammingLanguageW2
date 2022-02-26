@@ -1,0 +1,2 @@
+./a.out
+SHELL=/bin/bash
